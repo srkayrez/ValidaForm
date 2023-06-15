@@ -7,8 +7,6 @@
 
 ## Veja o resultado <a target="_blank" href='https://valida-form-pink.vercel.app/'>aqui</a>.
 
-Click [here](https://www.geeksforgeeks.org/){:target="_blank"} 
-
 ## Tecnologias utilizadas durante o curso
 * JavaScript
 
